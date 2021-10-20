@@ -1,11 +1,10 @@
-![infotecs-logo](https://upload.wikimedia.org/wikipedia/commons/f/f6/Infotex.png)
-# Infotecs's Technical test
+# Java interview Test sample
 
 ## About
 
-Develop a simple key-value service
+Develop a simple key-value service that will store data in RAM
 
-[More](./Java.docx)
+[More](https://en.wikipedia.org/wiki/Key%E2%80%93value_database)
 
 ## Build
 - By maven plugin
@@ -83,7 +82,7 @@ Develop a simple key-value service
  
 ### Properties
 
-It's possible to change the ttl default value, the time after which values going to update, and the log frequency for updating values.
+Opportunity to change the ttl default value, the time after which values going to update, and the log frequency for updating values.
 
 *application.properties*
 ```
