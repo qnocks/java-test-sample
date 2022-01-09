@@ -1,5 +1,4 @@
-# Java interview Test sample
-
+# Key-value server
 ## About
 
 Develop a simple key-value service that will store data in RAM
